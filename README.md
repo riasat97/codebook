@@ -11,9 +11,11 @@ Back-end
   Manage blogposts and comments
   CKeditor for post creation and editing.
   DataTables 
+  
 Super User
    Edit Profile
    Create,Edit or View Post
+   
 Front-end
   User login, registration
   Simple Blog functionality
