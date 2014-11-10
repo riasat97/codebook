@@ -17,8 +17,9 @@ Super User(
    Edit Profile
    Create,Edit or View Post)
    
-Front-end(
-  User login, registration
+Front-end--
+
+  (User login, registration
   Simple Blog functionality
   HomePage-All post in descending order   
   Most Recent post,Most popular post & Viewing All post by Category Right-Sidebar
